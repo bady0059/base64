@@ -7,6 +7,8 @@ assembly program to encode and decode base64
 
 1. #### enter a file name
 2. #### choose one of three options: 
+
+
 * encode text 
     - enter a text 
     
